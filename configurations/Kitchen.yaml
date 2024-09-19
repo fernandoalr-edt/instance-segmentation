@@ -1,0 +1,12 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /media/fernando/DATA/DATASETS/DATASET_SEGMENTACION # dataset root dir
+train: Kitchen/train.txt # train images (relative to 'path') 4 images
+val: Kitchen/val.txt # val images (relative to 'path') 4 images
+test: Kitchen/test.txt # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+    0: Cuchillo
+    1: Sarten
+    2: Olla
+    3: Taza

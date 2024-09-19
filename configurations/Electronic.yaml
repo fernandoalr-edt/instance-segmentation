@@ -1,0 +1,23 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /media/fernando/DATA/DATASETS/DATASET_SEGMENTACION # dataset root dir
+train: Electronic/train.txt # train images (relative to 'path') 4 images
+val: Electronic/val.txt # val images (relative to 'path') 4 images
+test: Electronic/test.txt # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+    0: Ordenador
+    1: Televisión
+    2: Aire-Acondicionado
+    3: Radio
+    4: Lavadora
+    5: Microondas
+    6: Horno
+    7: Campana-Extractora
+    8: Vitroceramica
+    9: Tostadora
+    10: Cafetera
+    11: Secador
+    12: Frigorifico
+    13: Altavoz
+    14: Reloj

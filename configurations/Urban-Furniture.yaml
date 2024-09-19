@@ -1,0 +1,29 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /media/fernando/DATA/DATASETS/DATASET_SEGMENTACION # dataset root dir
+train: Urban-Furniture/train.txt # train images (relative to 'path') 4 images
+val: Urban-Furniture/val.txt # val images (relative to 'path') 4 images
+test: Urban-Furniture/test.txt # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+    0: Banco
+    1: Bolardo
+    2: Mesa
+    3: Silla
+    4: Farola
+    5: Quitamiedos
+    6: Semaforo
+    7: Marquesina
+    8: Fuente-(Beber)
+    9: Papelera
+    10: Buzon
+    11: Fuente-(Decoracion)
+    12: Señal-Trafico
+    13: Valla-Publicitaria
+    14: Merendero
+    15: Puerta-Garage
+    16: Toldo
+    17: Panel-Solar
+    18: Contenedor
+    19: Radiador
+    20: Antena-Parabolica

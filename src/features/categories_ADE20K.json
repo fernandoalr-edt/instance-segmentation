@@ -1,0 +1,163 @@
+{
+	"Vehicles":[
+		{"supercategory":"Other", "id": 0, "name": "Autobus"},
+		{"supercategory":"Other", "id": 1, "name": "Bicicleta"},
+		{"supercategory":"Other", "id": 2, "name": "Camion"},
+		{"supercategory":"Other", "id": 3, "name": "Coche"},
+		{"supercategory":"Other", "id": 4, "name": "Moto"},
+		{"supercategory":"Other", "id": 5, "name": "Tren"},
+		{"supercategory":"Other", "id": 6, "name": "Helicoptero"},
+		{"supercategory":"Other", "id": 7, "name": "Caravana"},
+		{"supercategory":"Other", "id": 8, "name": "Barco"},
+		{"supercategory":"Other", "id": 9, "name": "Avion"},
+		{"supercategory":"Other", "id": 10, "name": "Quad"},
+		{"supercategory":"Other", "id": 11, "name": "Tractor"},
+		{"supercategory":"Other", "id": 12, "name": "Patinete-Electrico"},
+		{"supercategory":"Other", "id": 13, "name": "Grua"}
+
+	],
+	"Urban-Structures":[
+		{"supercategory":"Urban-Structures", "id": 0, "name": "Acera"},
+		{"supercategory":"Urban-Structures", "id": 1, "name": "Camino"},
+		{"supercategory":"Urban-Structures", "id": 2, "name": "Carretera"},
+		{"supercategory":"Urban-Structures", "id": 3, "name": "Muro"},
+		{"supercategory":"Urban-Structures", "id": 4, "name": "Puente"},
+		{"supercategory":"Urban-Structures", "id": 5, "name": "Rotonda"},
+		{"supercategory":"Urban-Structures", "id": 6, "name": "Tunel"},
+		{"supercategory":"Urban-Structures", "id": 7, "name": "Carril-Bici"},
+		{"supercategory":"Urban-Structures", "id": 8, "name": "Paso-Cebra"},
+		{"supercategory":"Urban-Structures", "id": 9, "name": "Parking-Libre"},
+		{"supercategory":"Urban-Structures", "id": 10, "name": "Parking-Zona"}
+	],
+	"Buildings":[
+		{"supercategory":"Buildings", "id": 0, "name": "Edificio"},
+		{"supercategory":"Buildings", "id": 1, "name": "Terreno"},
+		{"supercategory":"Buildings", "id": 2, "name": "Valla"},
+		{"supercategory":"Buildings", "id": 3, "name": "Gasolinera"},
+		{"supercategory":"Buildings", "id": 4, "name": "Estadio-Futbol"},
+		{"supercategory":"Buildings", "id": 5, "name": "Tejado"},
+		{"supercategory":"Buildings", "id": 6, "name": "Suelo"},
+		{"supercategory":"Buildings", "id": 7, "name": "Techo"},
+		{"supercategory":"Buildings", "id": 8, "name": "Columna"},
+		{"supercategory":"Buildings", "id": 9, "name": "Piscina"},
+		{"supercategory":"Buildings", "id": 10, "name": "Pista-(Futbol)"},
+		{"supercategory":"Buildings", "id": 11, "name": "Escalera"}
+	],
+	"Urban-Furniture":[
+		{"supercategory":"Urban-Furniture", "id": 0, "name": "Banco"},
+		{"supercategory":"Urban-Furniture", "id": 1, "name": "Bolardo"},
+		{"supercategory":"Urban-Furniture", "id": 2, "name": "Mesa"},
+		{"supercategory":"Urban-Furniture", "id": 3, "name": "Silla"},
+		{"supercategory":"Urban-Furniture", "id": 4, "name": "Farola"},
+		{"supercategory":"Urban-Furniture", "id": 5, "name": "Quitamiedos"},
+		{"supercategory":"Urban-Furniture", "id": 6, "name": "Semaforo"},
+		{"supercategory":"Urban-Furniture", "id": 7, "name": "Marquesina"},
+		{"supercategory":"Urban-Furniture", "id": 8, "name": "Fuente-(Beber)"},
+		{"supercategory":"Urban-Furniture", "id": 9, "name": "Papelera"},
+		{"supercategory":"Urban-Furniture", "id": 10, "name": "Buzon"},
+		{"supercategory":"Urban-Furniture", "id": 11, "name": "Fuente-(Decoracion)"},
+		{"supercategory":"Urban-Furniture", "id": 12, "name": "Señal-Trafico"},
+		{"supercategory":"Urban-Furniture", "id": 13, "name": "Valla-Publicitaria"},
+		{"supercategory":"Urban-Furniture", "id": 14, "name": "Merendero"},
+		{"supercategory":"Urban-Furniture", "id": 15, "name": "Puerta-Garage"},
+		{"supercategory":"Urban-Furniture", "id": 16, "name": "Toldo"},
+		{"supercategory":"Urban-Furniture", "id": 17, "name": "Panel-Solar"},
+		{"supercategory":"Urban-Furniture", "id": 18, "name": "Contenedor"},
+		{"supercategory":"Urban-Furniture", "id": 19, "name": "Radiador"},
+		{"supercategory":"Urban-Furniture", "id": 20, "name": "Antena-Parabolica"}
+	],
+	"Nature":[
+		{"supercategory":"Nature", "id": 0, "name": "Hierba"},
+		{"supercategory":"Nature", "id": 1, "name": "Arbol"},
+		{"supercategory":"Nature", "id": 2, "name": "Planta"},
+		{"supercategory":"Nature", "id": 3, "name": "Playa"},
+		{"supercategory":"Nature", "id": 4, "name": "Agua"}
+	],
+	"Electronic":[
+		{"supercategory":"Electronic", "id": 0, "name": "Ordenador"},
+		{"supercategory":"Electronic", "id": 1, "name": "Televisión"},
+		{"supercategory":"Electronic", "id": 2, "name": "Aire-Acondicionado"},
+		{"supercategory":"Electronic", "id": 3, "name": "Radio"},
+		{"supercategory":"Electronic", "id": 4, "name": "Lavadora"},
+		{"supercategory":"Electronic", "id": 5, "name": "Microondas"},
+		{"supercategory":"Electronic", "id": 6, "name": "Horno"},
+		{"supercategory":"Electronic", "id": 7, "name": "Campana-Extractora"},
+		{"supercategory":"Electronic", "id": 8, "name": "Vitroceramica"},
+		{"supercategory":"Electronic", "id": 9, "name": "Tostadora"},
+		{"supercategory":"Electronic", "id": 10, "name": "Cafetera"},
+		{"supercategory":"Electronic", "id": 11, "name": "Secador"},
+		{"supercategory":"Electronic", "id": 12, "name": "Frigorifico"},
+		{"supercategory":"Electronic", "id": 13, "name": "Altavoz"},
+		{"supercategory":"Electronic", "id": 14, "name": "Reloj"}
+	],
+	"Security":[
+		{"supercategory":"Security", "id": 0, "name": "Pistola"},
+		{"supercategory":"Security", "id": 1, "name": "Rifle"},
+		{"supercategory":"Security", "id": 2, "name": "Extintor"},
+		{"supercategory":"Security", "id": 3, "name": "Cono"},
+		{"supercategory":"Security", "id": 4, "name": "Casco-Moto"}
+	],
+	"Bathroom":[
+		{"supercategory":"Bathroom", "id": 0, "name": "Bañera"},
+		{"supercategory":"Bathroom", "id": 1, "name": "Fregadero"},
+		{"supercategory":"Bathroom", "id": 2, "name": "Grifo"},
+		{"supercategory":"Bathroom", "id": 3, "name": "Vater"},
+		{"supercategory":"Bathroom", "id": 4, "name": "Alcachofa-Ducha"},
+		{"supercategory":"Bathroom", "id": 5, "name": "Bidet"},
+		{"supercategory":"Bathroom", "id": 6, "name": "Esponja"},
+		{"supercategory":"Bathroom", "id": 7, "name": "Urinario"},
+		{"supercategory":"Bathroom", "id": 8, "name": "Plato-Ducha"},
+		{"supercategory":"Bathroom", "id": 9, "name": "Toalla"},
+		{"supercategory":"Bathroom", "id": 10, "name": "Bote-Gel"}
+	],
+	"Kitchen":[
+		{"supercategory":"Kitchen", "id": 0, "name": "Cuchillo"},
+		{"supercategory":"Kitchen", "id": 1, "name": "Sarten"},
+		{"supercategory":"Kitchen", "id": 2, "name": "Olla"},
+		{"supercategory":"Kitchen", "id": 3, "name": "Taza"}
+	],
+	"Decoration":[
+		{"supercategory":"Decoration", "id": 0, "name": "Cortina"},
+		{"supercategory":"Decoration", "id": 1, "name": "Cojin"},
+		{"supercategory":"Decoration", "id": 2, "name": "Alfombra"},
+		{"supercategory":"Decoration", "id": 3, "name": "Chimenea"},
+		{"supercategory":"Decoration", "id": 4, "name": "Cuadro"},
+		{"supercategory":"Decoration", "id": 5, "name": "Espejo"},
+		{"supercategory":"Decoration", "id": 6, "name": "Lampara"},
+		{"supercategory":"Decoration", "id": 7, "name": "Armario"},
+		{"supercategory":"Decoration", "id": 8, "name": "Sofa"},
+		{"supercategory":"Decoration", "id": 9, "name": "Cama"},
+		{"supercategory":"Decoration", "id": 10, "name": "Ventana"},
+		{"supercategory":"Decoration", "id": 11, "name": "Puerta"}
+	],
+	"Accesories":[
+		{"supercategory":"Accesories", "id": 0, "name": "Libro"},
+		{"supercategory":"Accesories", "id": 1, "name": "Movil"},
+		{"supercategory":"Accesories", "id": 2, "name": "Gafas"},
+		{"supercategory":"Accesories", "id": 3, "name": "Bolso"},
+		{"supercategory":"Accesories", "id": 4, "name": "Botella"},
+		{"supercategory":"Accesories", "id": 5, "name": "Camara"},
+		{"supercategory":"Accesories", "id": 6, "name": "Llave"},
+		{"supercategory":"Accesories", "id": 7, "name": "Mochila"},
+		{"supercategory":"Accesories", "id": 8, "name": "Reloj-Pulsera"}
+	],
+	"Other":[
+		{"supercategory":"Other", "id": 0, "name": "Enchufe"},
+		{"supercategory":"Other", "id": 1, "name": "Interruptor"},
+		{"supercategory":"Other", "id": 2, "name": "Lata"},
+		{"supercategory":"Other", "id": 3, "name": "Vela"},
+		{"supercategory":"Other", "id": 4, "name": "Linterna"}
+	],
+	"Cleaning":[
+		{"supercategory":"Cleaning", "id": 0, "name": "Escoba"},
+		{"supercategory":"Cleaning", "id": 1, "name": "Fregona"},
+		{"supercategory":"Cleaning", "id": 2, "name": "Recogedor"}
+	],
+	"People":[
+		{"supercategory":"People", "id": 0, "name": "Persona"},
+		{"supercategory":"People", "id": 1, "name": "Zapatos"},
+		{"supercategory":"People", "id": 2, "name": "Cabeza"},
+		{"supercategory":"People", "id": 3, "name": "Gorra"},
+		{"supercategory":"People", "id": 4, "name": "Sombrero"}
+	]
+}

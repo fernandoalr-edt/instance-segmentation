@@ -1,0 +1,22 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /media/fernando/DATA/DATASETS/DATASET_SEGMENTACION # dataset root dir
+train: Vehicles/train.txt # train images (relative to 'path') 4 images
+val: Vehicles/val.txt # val images (relative to 'path') 4 images
+test: Vehicles/test.txt # val images (relative to 'path') 4 images
+
+# Classes (80 COCO classes)
+names:
+    0: Autobus
+    1: Bicicleta
+    2: Camion
+    3: Coche
+    4: Moto
+    5: Tren
+    6: Helicoptero
+    7: Caravana
+    8: Barco
+    9: Avion
+    10: Quad
+    11: Tractor
+    12: Patinete-Electrico
+    13: Grua

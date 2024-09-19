@@ -1,0 +1,19 @@
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+path: /media/fernando/DATA/DATASETS/DATASET_SEGMENTACION # dataset root dir
+train: Bathroom/train.txt # train images (relative to 'path') 4 images
+val: Bathroom/val.txt # val images (relative to 'path') 4 images
+test: Bathroom/test.txt # test images (optional)
+
+# Classes (80 COCO classes)
+names:
+    0: Bañera
+    1: Fregadero
+    2: Grifo
+    3: Vater
+    4: Alcachofa-Ducha
+    5: Bidet
+    6: Esponja
+    7: Urinario
+    8: Plato-Ducha
+    9: Toalla
+    10: Bote-Gel

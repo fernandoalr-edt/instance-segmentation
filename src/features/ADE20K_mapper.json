@@ -1,0 +1,374 @@
+{
+	"Vehicles":{
+		"326":{"id":0, "name":"Autobus"},
+
+		"186":{"id":1, "name":"Bicicleta"},
+
+		"644":{"id":2, "name":"Camion"},
+		"2879":{"id":2, "name":"Camion"},
+		"2878":{"id":2, "name":"Camion"},
+
+		"400":{"id":3, "name":"Coche"},
+		"3563":{"id":3, "name":"Coche"},
+		"3590":{"id":3, "name":"Coche"},
+
+		"1562":{"id":4, "name":"Moto"},
+		"1600":{"id":4, "name":"Moto"},
+
+		"2057":{"id":5, "name":"Tren"},
+		"2839":{"id":5, "name":"Tren"},
+
+		"1228":{"id":6, "name":"Helicoptero"},
+
+		"401":{"id":7, "name":"Caravana"},
+
+		"2986":{"id":8, "name":"Barco"},
+		"2336":{"id":8, "name":"Barco"},
+
+		"13":{"id":9, "name":"Avion"},
+
+		"2831":{"id":11, "name":"Tractor"},
+
+		"642":{"id":13, "name":"Grua"}
+
+	},
+	"Urban-Structures":{
+		"2376":{"id":0, "name":"Acera"},
+
+		"1787":{"id":1, "name":"Camino"},
+
+		"2130":{"id":2, "name":"Carretera"},
+		"2184":{"id":2, "name":"Carretera"},
+
+		"2146":{"id":3, "name":"Muro"},
+		"2136":{"id":3, "name":"Muro"},
+		"3167":{"id":3, "name":"Muro"},
+		"2977":{"id":3, "name":"Muro"},
+
+		"3365":{"id":4, "name":"Puente"},
+		"293":{"id":4, "name":"Puente"},
+
+		"2167":{"id":5, "name":"Rotonda"},
+
+		"2891":{"id":6, "name":"Tunel"},
+
+		"3686":{"id":7, "name":"Carril-Bici"},
+		"183":{"id":7, "name":"Carril-Bici"},
+
+		"3445":{"id":8, "name":"Paso-Cebra"},
+
+		"1780":{"id":9, "name":"Parking-Libre"},
+
+		"1775":{"id":10, "name":"Parking-Zona"}
+	},
+	"Buildings":{
+		"311":{"id":0, "name":"Edificio"},
+		"2422":{"id":0, "name":"Edificio"},
+		"1281":{"id":0, "name":"Edificio"},
+		"2827":{"id":0, "name":"Edificio"},
+		"246":{"id":0, "name":"Edificio"},
+
+		"837":{"id":1, "name":"Terreno"},
+		"912":{"id":1, "name":"Terreno"},
+		"2137":{"id":1, "name":"Terreno"},
+		"2211":{"id":1, "name":"Terreno"},
+		"1239":{"id":1, "name":"Terreno"},
+		"737":{"id":1, "name":"Terreno"},
+		"1400":{"id":1, "name":"Terreno"},
+
+		"906":{"id":2, "name":"Valla"},
+		"119":{"id":2, "name":"Valla"},
+
+		"3477":{"id":3, "name":"Gasolinera"},
+
+		"2524":{"id":4, "name":"Estadio-Futbol"},
+		"1008":{"id":4, "name":"Estadio-Futbol"},
+
+		"2154":{"id":5, "name":"Tejado"},
+
+		"975":{"id":6, "name":"Suelo"},
+
+		"446":{"id":7, "name":"Techo"},
+
+		"580":{"id":8, "name":"Columna"},
+
+		"2667":{"id":9, "name":"Piscina"},
+		"1221":{"id":9, "name":"Piscina"},
+
+		"1890":{"id":10, "name":"Pista-(Futbol)"},
+
+		"2500":{"id":11, "name":"Escalera"},
+		"2530":{"id":11, "name":"Escalera"},
+		"2528":{"id":11, "name":"Escalera"}
+	},
+	"Urban-Furniture":{
+		"180":{"id":0, "name":"Banco"},
+
+		"228":{"id":1, "name":"Bolardo"},
+
+		"2683":{"id":2, "name":"Mesa"},
+		"723":{"id":2, "name":"Mesa"},
+		"570":{"id":2, "name":"Mesa"},
+		"490":{"id":2, "name":"Mesa"},
+		"1947":{"id":2, "name":"Mesa"},
+		"307":{"id":2, "name":"Mesa"},
+
+		"470":{"id":3, "name":"Silla"},
+		"2271":{"id":3, "name":"Silla"},
+		"2678":{"id":3, "name":"Silla"},
+
+		"2615":{"id":4, "name":"Farola"},
+
+		"1147":{"id":5, "name":"Quitamiedos"},
+
+		"2835":{"id":6, "name":"Semaforo"},
+
+		"325":{"id":7, "name":"Marquesina"},
+
+		"804":{"id":8, "name":"Fuente-(Beber)"},
+
+		"63":{"id":9, "name":"Papelera"},
+
+		"1962":{"id":10, "name":"Buzon"},
+		"1961":{"id":10, "name":"Buzon"},
+
+		"3355":{"id":11, "name":"Fuente-(Decoracion)"},
+		"1022":{"id":11, "name":"Fuente-(Decoracion)"},
+
+		"2612":{"id":12, "name":"Señal-Trafico"},
+		"2379":{"id":12, "name":"Señal-Trafico"},
+
+		"193":{"id":13, "name":"Valla-Publicitaria"},
+
+		"1061":{"id":15, "name":"Puerta-Garage"},
+
+		"76":{"id":16, "name":"Toldo"},
+
+		"2475":{"id":17, "name":"Panel-Solar"},
+		"2476":{"id":17, "name":"Panel-Solar"},
+
+		"596":{"id":18, "name":"Contenedor"},
+		"597":{"id":18, "name":"Contenedor"},
+
+		"2824":{"id":19, "name":"Radiador"},
+		"2045":{"id":19, "name":"Radiador"},
+
+		"742":{"id":20, "name":"Antena-Parabolica"}
+	},
+	"Nature":{
+		"1124":{"id":0, "name":"Hierba"},
+
+		"2854":{"id":1, "name":"Arbol"},
+		"1743":{"id":1, "name":"Arbol"},
+
+		"1905":{"id":2, "name":"Planta"},
+		"1906":{"id":2, "name":"Planta"},
+		"1907":{"id":2, "name":"Planta"},
+		"1908":{"id":2, "name":"Planta"},
+		"1909":{"id":2, "name":"Planta"},
+		"977":{"id":2, "name":"Planta"},
+		"1980":{"id":2, "name":"Planta"},
+
+		"3333":{"id":3, "name":"Playa"},
+		"3363":{"id":3, "name":"Playa"},
+
+		"2993":{"id":4, "name":"Agua"},
+		"2263":{"id":4, "name":"Agua"},
+		"2127":{"id":4, "name":"Agua"},
+		"3015":{"id":4, "name":"Agua"},
+		"1392":{"id":4, "name":"Agua"}
+	},
+	"Electronic":{
+		"590":{"id":0, "name":"Ordenador"},
+
+		"2732":{"id":1, "name":"Televisión"},
+
+		"9":{"id":2, "name":"Aire-Acondicionado"},
+
+		"2046":{"id":3, "name":"Radio"},
+
+		"2988":{"id":4, "name":"Lavadora"},
+
+		"1550":{"id":5, "name":"Microondas"},
+		"3135":{"id":5, "name":"Microondas"},
+
+		"1707":{"id":6, "name":"Horno"},
+
+		"3220":{"id":8, "name":"Vitroceramica"},
+
+		"2781":{"id":9, "name":"Tostadora"},
+
+		"568":{"id":10, "name":"Cafetera"},
+
+		"1160":{"id":11, "name":"Secador"},
+
+		"2095":{"id":12, "name":"Frigorifico"},
+
+		"1472":{"id":13, "name":"Altavoz"},
+		"1473":{"id":13, "name":"Altavoz"},
+		"2486":{"id":13, "name":"Altavoz"},
+
+		"529":{"id":14, "name":"Reloj"},
+		"3121":{"id":14, "name":"Reloj"}
+	},
+	"Security":{
+		"1154":{"id":0, "name":"Pistola"},
+
+		"2114":{"id":1, "name":"Rifle"},
+
+		"938":{"id":2, "name":"Extintor"},
+
+		"2833":{"id":3, "name":"Cono"},
+
+		"1230":{"id":4, "name":"Casco-Moto"}
+	},
+	"Bathroom":{
+		"154":{"id":0, "name":"Bañera"},
+
+		"2387":{"id":1, "name":"Fregadero"},
+
+		"2999":{"id":2, "name":"Grifo"},
+
+		"2792":{"id":3, "name":"Vater"},
+
+		"3171":{"id":4, "name":"Alcachofa-Ducha"},
+		"2363":{"id":4, "name":"Alcachofa-Ducha"},
+
+		"187":{"id":5, "name":"Bidet"},
+
+		"152":{"id":6, "name":"Esponja"},
+		"2502":{"id":6, "name":"Esponja"},
+		"2503":{"id":6, "name":"Esponja"},
+
+		"2912":{"id":7, "name":"Urinario"},
+
+		"2362":{"id":8, "name":"Plato-Ducha"},
+
+		"2820":{"id":9, "name":"Toalla"},
+
+		"740":{"id":10, "name":"Bote-Gel"},
+		"2464":{"id":10, "name":"Bote-Gel"}  			  			  
+	},
+	"Kitchen":{
+		"1377":{"id":0, "name":"Cuchillo"},
+
+		"1038":{"id":1, "name":"Sarten"},
+		"1039":{"id":1, "name":"Sarten"},
+
+		"559":{"id":2, "name":"Olla"},
+		"658":{"id":2, "name":"Olla"},
+
+		"1618":{"id":3, "name":"Taza"},
+		"564":{"id":3, "name":"Taza"},
+		"2721":{"id":3, "name":"Taza"}
+	},
+	"Decoration":{
+		"686":{"id":0, "name":"Cortina"},
+
+		"688":{"id":1, "name":"Cojin"},
+
+		"2177":{"id":2, "name":"Alfombra"},
+
+		"942":{"id":3, "name":"Chimenea"},
+
+		"1734":{"id":4, "name":"Cuadro"},
+
+		"1563":{"id":5, "name":"Espejo"},
+
+		"1394":{"id":6, "name":"Lampara"},
+
+		"349":{"id":7, "name":"Armario"},
+		"2984":{"id":7, "name":"Armario"},
+
+		"2472":{"id":8, "name":"Sofa"},
+		"56":{"id":8, "name":"Sofa"},
+
+		"3447":{"id":9, "name":"Cama"},
+		"164":{"id":9, "name":"Cama"},
+
+		"3054":{"id":10, "name":"Ventana"},
+
+		"782":{"id":11, "name":"Puerta"},
+		"773":{"id":11, "name":"Puerta"},
+		"2250":{"id":11, "name":"Puerta"}
+	},
+	"Accesories":{
+		"235":{"id":0, "name":"Libro"},
+		"1661":{"id":0, "name":"Libro"},
+		"1484":{"id":0, "name":"Libro"},
+
+		"456":{"id":1, "name":"Movil"},
+		"1574":{"id":1, "name":"Movil"},
+		"2725":{"id":1, "name":"Movil"},
+		"2729":{"id":1, "name":"Movil"},
+		"3068":{"id":1, "name":"Movil"},
+
+		"885":{"id":2, "name":"Gafas"},
+		"2489":{"id":2, "name":"Gafas"},
+		"2645":{"id":2, "name":"Gafas"},
+
+		"95":{"id":3, "name":"Bolso"},
+		"1177":{"id":3, "name":"Bolso"},
+
+		"3491":{"id":4, "name":"Botella"},
+		"248":{"id":4, "name":"Botella"},
+		"249":{"id":4, "name":"Botella"},
+		"250":{"id":4, "name":"Botella"},
+		"901":{"id":4, "name":"Botella"},
+
+		"365":{"id":5, "name":"Camara"},
+		"2281":{"id":5, "name":"Camara"},
+		"2731":{"id":5, "name":"Camara"},
+		"2950":{"id":5, "name":"Camara"},
+
+		"94":{"id":7, "name":"Mochila"},
+		"1107":{"id":7, "name":"Mochila"},
+		"2507":{"id":7, "name":"Mochila"},
+		"2506":{"id":7, "name":"Mochila"},
+
+		"2991":{"id":8, "name":"Reloj-Pulsera"}
+	},
+	"Other":{
+		"1623":{"id":0, "name":"Enchufe"},
+		"2981":{"id":0, "name":"Enchufe"},
+
+		"3131":{"id":1, "name":"Interruptor"},
+		"2675":{"id":1, "name":"Interruptor"},
+		"2673":{"id":1, "name":"Interruptor"},
+
+		"368":{"id":2, "name":"Lata"},
+		"370":{"id":2, "name":"Lata"},
+
+		"374":{"id":3, "name":"Vela"},
+		"375":{"id":3, "name":"Vela"},
+		"376":{"id":3, "name":"Vela"},
+		"377":{"id":3, "name":"Vela"},
+
+		"958":{"id":4, "name":"Linterna"},
+		"2816":{"id":4, "name":"Linterna"}
+	},
+	"Cleaning":{
+		"298":{"id":0, "name":"Escoba"},
+
+		"3146":{"id":1, "name":"Fregona"},
+
+		"820":{"id":2, "name":"Recogedor"}
+	},
+	"People":{
+		"1830":{"id":0, "name":"Persona"},
+		"1828":{"id":0, "name":"Persona"},
+
+		"2340":{"id":1, "name":"Zapatos"},
+		"1157":{"id":1, "name":"Zapatos"},
+		"1227":{"id":1, "name":"Zapatos"},
+		"1235":{"id":1, "name":"Zapatos"},
+		"1236":{"id":1, "name":"Zapatos"},
+
+		"1205":{"id":2, "name":"Cabeza"},
+
+		"393":{"id":3, "name":"Gorra"},
+		"1797":{"id":3, "name":"Gorra"},
+
+		"1196":{"id":4, "name":"Sombrero"}
+	}
+}
