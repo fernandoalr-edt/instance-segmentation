@@ -79,6 +79,7 @@ target/
 /data/
 /trained_models/
 /Inferences/
+/*_project/
 
 # Mac OS-specific storage files
 .DS_Store
